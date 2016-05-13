@@ -1,3 +1,7 @@
 Q1: What happens when you initialize a repository? Why do you need to do it?
 
 A1: An empty git repo is created when one initializes a repo. It fires git
+
+Q2: How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+A2: Staging area is where you files/project are stored before they are commited while the working directory is where you make changes to you files/projects
